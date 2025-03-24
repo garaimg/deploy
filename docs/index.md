@@ -123,4 +123,4 @@ When you make a release on GitHub, the publish workflow will run and deploy to P
 
 Welcome! 😊👋
 
-> Please see the [Contributing Guide](CONTRIBUTING.md).
+> Please see the [Contributing Guide](CONTRIBUTING.md) Change.
